@@ -1,3 +1,5 @@
+%% doi: 10.5281/zenedo.2321522
+
 # Matlab_Concentration-dependent-diffusion-coefficients
 GUI - Concentration dependent diffusion coefficient: Function to evaluate concentration profiles of Cu-Ni to derive concentration dependent diffusion coefficients using Sauer-Freise-den Broeder method with 2 options - (1) analytical solution by fitting Five-parameter logistic function to data - (2) numerical solution by purely numerical solution
 
